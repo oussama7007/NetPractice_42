@@ -42,5 +42,7 @@ Networking Concepts Studied: TCP/IP addressing, subnet masks, default gateways, 
 AI Usage: AI was used as a thought partner to explain complex subnetting logic, troubleshoot "KO" errors (such as "No reverse way" and "Multiple destination hosts match"), and clarify the binary mathematics required for CIDR masks.
 
 References: https://github.com/caroldaniel/42sp-cursus-netpractice 
+            
             https://medium.com/@imyzf/netpractice-2d2b39b6cf0a
+            
             https://www.imperva.com/learn/application-security/osi-model/.
