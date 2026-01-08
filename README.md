@@ -16,7 +16,7 @@ Overview: Solving 10 levels of non-functioning network diagrams via a training i
 
 
 
-Instructions
+*Instructions*
 
 Execution: Download the project files, extract them, and run the index.html file in a web browser.
 
@@ -27,3 +27,20 @@ Usage: Enter your intranet login to practice with your personal configuration in
 
 
 Exporting: Use the [Get my config] button to download your configuration once a level is successfully completed.
+
+
+
+***Submission Details***
+To complete the assignment, 10 exported configuration files (one per level) must be placed at the root of the Git repository.
++1
+
+*Resources*
+
+Networking Concepts Studied: TCP/IP addressing, subnet masks, default gateways, routers, switches, and the OSI layers.
+
+
+AI Usage: AI was used as a thought partner to explain complex subnetting logic, troubleshoot "KO" errors (such as "No reverse way" and "Multiple destination hosts match"), and clarify the binary mathematics required for CIDR masks.
+
+References: https://github.com/caroldaniel/42sp-cursus-netpractice 
+            https://medium.com/@imyzf/netpractice-2d2b39b6cf0a
+            https://www.imperva.com/learn/application-security/osi-model/.
