@@ -18,7 +18,8 @@ To complete the assignment, 10 exported configuration files (one per level) must
 ## Networking Concepts Learned
 
 ### TCP/IP
-TCP/IP is the fundamental communication model used in modern networks. In NetPractice, IP addresses are used to uniquely identify hosts, while TCP/IP concepts help understand how data is routed between devices across different networks.
+TCP/IP is the fundamental communication model used in modern networks. In NetPractice, IP (Internet Protocol) addresses are used to uniquely identify hosts, while TCP/IP concepts help understand how data is routed between devices across different networks.
+
 
 ### IP Addressing and CIDR
 An IP address identifies a device on a network. CIDR notation (e.g. /20, /24) defines how many bits belong to the network and how many to hosts. This was essential to correctly determine network ranges, valid hosts, and broadcast addresses.
