@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by oait-si-.*
+*This project has been created as part of the 42 curriculum by oait-si- *
 
 ## Description 
 
@@ -53,10 +53,17 @@ The OSI model provides a layered approach to networking. NetPractice mainly focu
 * **AI Usage:** AI was used as a thought partner to explain complex subnetting logic, troubleshoot "KO" errors (such as "No reverse way" and "Multiple destination hosts match"), and clarify the binary mathematics required for CIDR masks. 
 
 * **References:** 
+
 * [42sp-cursus-netpractice](https://github.com/caroldaniel/42sp-cursus-netpractice): Visual guides and logic for project levels. 
+
 * [NetPractice Walkthrough](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a): Technical breakdown of routing and subnetting. 
+
 * [OSI Model Guide](https://www.imperva.com/learn/application-security/osi-model/): Standard reference for network layer theory.
 
-*[What is Packet in Networking? – Definition, Types & Threats](https://www.indusface.com/learning/what-is-packet/)
+* [subnet mask](https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/)
 
+* [default gatway](https://www.geeksforgeeks.org/computer-networks/default-gateway-in-networking/)
 
+* [tcp/ip addressing](https://www.ibm.com/docs/en/aix/7.2.0?topic=protocol-tcpip-addressing)
+
+*[Difference Between Router and Switch](https://www.geeksforgeeks.org/computer-networks/difference-between-router-and-switch/)
