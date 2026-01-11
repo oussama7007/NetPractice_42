@@ -18,7 +18,12 @@ To complete the assignment, 10 exported configuration files (one per level) must
 ## Networking Concepts Learned
 
 ### TCP/IP
-TCP/IP is the fundamental communication model used in modern networks. In NetPractice, IP (Internet Protocol) addresses are used to uniquely identify hosts, while TCP/IP concepts help understand how data is routed between devices across different networks.
+TCP/IP is the fundamental communication model used in modern networks. In NetPractice, IP (Internet Protocol) addresses are used to uniquely identify hosts 
+
+TCP/IP concepts help understand how data is routed between devices across different networks.
+
+### What is a Packet?
+A packet refers to a unit of data that is transmitted over a network. In digital communication, data is broken down into smaller, manageable chunks called packets before being sent from one device to another. These packets travel independently through the network and are reassembled at the destination to recreate the original data.
 
 
 ### IP Addressing and CIDR
@@ -51,4 +56,7 @@ The OSI model provides a layered approach to networking. NetPractice mainly focu
 * [42sp-cursus-netpractice](https://github.com/caroldaniel/42sp-cursus-netpractice): Visual guides and logic for project levels. 
 * [NetPractice Walkthrough](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a): Technical breakdown of routing and subnetting. 
 * [OSI Model Guide](https://www.imperva.com/learn/application-security/osi-model/): Standard reference for network layer theory.
+
+*[What is Packet in Networking? – Definition, Types & Threats](https://www.indusface.com/learning/what-is-packet/)
+
 
